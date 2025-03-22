@@ -15,11 +15,13 @@
     border-radius: 4px;
     background-color: var(--input-color);
     border: 1px solid var(--input-color);
+    color: var(--white--color);
+    font: var(--input);
+    padding-left: 20px;
   }
 
   & input::placeholder {
     color: var(--white--color);
     font: var(--input);
-    padding-left: 20px;
   }
 }

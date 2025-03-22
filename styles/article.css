@@ -1,0 +1,37 @@
+.gato-container {
+  width: 803px;
+  height: 871px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 110px;
+  gap: 30px;
+
+  & #foto {
+    width: 803px;
+    height: 405px;
+  }
+
+  & .gato-titulo {
+    width: 800px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    & h1 {
+      font: var(--h1);
+      color: var(--h1-color);
+    }
+
+    & .botoes {
+      display: flex;
+      gap: 10px;
+    }
+  }
+
+  & .paragrafos {
+    font: var(--p-primary);
+    color: var(--paragraph-color);
+  }
+}

@@ -1,0 +1,32 @@
+.aside-container {
+  height: 615px;
+  display: flex;
+  flex-direction: column;
+
+  & h1 {
+    font: var(--h1);
+    color: var(--h1-color);
+  }
+}
+
+.artigo-1 {
+  margin-top: 32px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+  & .curiosidade {
+    display: flex;
+    flex-direction: column;
+  }
+
+  & h2 {
+    font: var(--h2);
+    color: var(--h1-color);
+  }
+
+  & p {
+    font: var(--p-secondary);
+    color: var(--paragraph-color);
+  }
+}

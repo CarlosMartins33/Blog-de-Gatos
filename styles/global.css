@@ -27,3 +27,13 @@
   --footer: 600 16px / auto var(--font-family);
   --input: 600 16px/100% var(--font-family);
 }
+
+body {
+  background-color: var(--body-color);
+}
+
+.main-container {
+  display: flex;
+  gap: 50px;
+  margin: 44px 150px 40px 200px;
+}
