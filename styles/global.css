@@ -25,4 +25,5 @@
   --p-primary: 400 16px/160% var(--font-family);
   --p-secondary: 400 14px/160% var(--font-family);
   --footer: 600 16px / auto var(--font-family);
+  --input: 600 16px/100% var(--font-family);
 }
