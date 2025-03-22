@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Colors */
+  --header-color: #065e7c;
+  --footer-color: #387e96;
+  --input-color: rgb(255, 255, 255, 20%);
+  --body-color: #f4fcff;
+  --white--color: #ffffff;
+
+  /* Typography colors */
+  --h1-color: #202024;
+  --paragraph-color: #121214;
+
+  /* Font Family */
+  --font-family: "Mulish", sans-serif;
+
+  /* Typography */
+  --h1: 700 24px/160% var(--font-family);
+  --h2: 700 18px/160% var(--font-family);
+  --p-primary: 400 16px/160% var(--font-family);
+  --p-secondary: 400 14px/160% var(--font-family);
+  --footer: 600 16px / auto var(--font-family);
+}
