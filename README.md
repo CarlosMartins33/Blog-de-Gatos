@@ -30,4 +30,4 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## :memo: Licença
 
-Acesse Aqui <a href="#">Blog de Gatos/a>
+Acesse Aqui <a href="https://carlosmartins33.github.io/Blog-de-Gatos/">Blog de Gatos</a>
